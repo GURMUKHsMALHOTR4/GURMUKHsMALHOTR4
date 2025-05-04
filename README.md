@@ -47,11 +47,11 @@ Features include:
 - 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gurmukh-singh-b92a96288">linkedin.com/in/gurmukh-singh</a>  
 - 🧑‍💻 <strong>GitHub:</strong> <a href="https://github.com/GURMUKHsMALHOTR4">GURMUKHsMALHOTR4</a>  
 
----
+<br/><br/>
 
 ### 📊 Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>

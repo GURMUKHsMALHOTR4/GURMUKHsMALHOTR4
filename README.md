@@ -35,7 +35,7 @@
 - 📞 **Phone:** +91 93500 04071  
 - 📧 **Email:** [gurmukhsmalhotra1@gmail.com](mailto:gurmukhsmalhotra1@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/gurmukh-singh-b92a96288](https://linkedin.com/in/gurmukh-singh-b92a96288)  
-- 🧑‍💻 **GitHub:** [github.com/GURMUKHsMALHOTRA4](https://github.com/GURMUKHsMALHOTRA4)  
+- 🧑‍💻 **GitHub:** [github.com/GURMUKHsMALHOTRA4](https://github.com/GURMUKHsMALHOTR4)  
 
 ### ⚡ Currently Learning
 

@@ -1,36 +1,60 @@
- Hey there 👋! I'm Gurmukh Singh — a CSE undergrad
+<h1 align="center">Hi there 👋, I'm Gurmukh Singh</h1>
+<h3 align="center">🚀 2nd Year CSE Student | Backend Enthusiast | DSA Learner</h3>
 
-🚀 About Me
+<table>
+<tr>
+<td width="50%">
 
-🧑‍💻 Passionate about backend development and writing clean, efficient code
-💡 Currently learning Java, Spring Boot, PostgreSQL, and Data Structures & Algorithms
-📚 Consistently practicing DSA to strengthen my problem-solving skills
-🌱 Exploring scalable backend architectures and building robust RESTful APIs
-✨ Driven by curiosity, always eager to learn and experiment with new technologies
+### 👨‍💻 About Me
 
+- 🎓 2nd year CSE undergrad at Chitkara University  
+- 💻 Passionate about backend development  
+- 🚀 Learning Java, Spring Boot, PostgreSQL, and Data Structures & Algorithms  
+- 🌱 Exploring how to build scalable RESTful APIs  
+- 💡 Always curious and eager to grow as a developer  
 
-🛠️ Tech Stack & Tools
+### 🛠 Tech Stack
 
-💻 Languages: Java, C++
-🌱 Frameworks: Spring Boot
-🗄️ Databases: PostgreSQL, MySQL | Tools: pgAdmin
-🛠️ Development Tools: GitHub, VS Code, Postman
-🚧 Currently Learning & Building Projects With: Spring Boot + PostgreSQL Integration
+- **Languages:** Java, C++  
+- **Frameworks:** Spring Boot  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools:** GitHub, VS Code, Postman, pgAdmin  
 
+### 📌 Projects
 
-📌 Projects I'm Working On
+- 💼 **HireMate** – A job portal built with Spring Boot + PostgreSQL  
+  - Secure login & role-based access  
+  - Job posting & application tracking  
+  - Resume upload & recruiter-side review dashboard  
 
-💼 HireMate — A full-stack job portal application built with Spring Boot and PostgreSQL.
-Features include:
-🔐 Secure user authentication & role-based access (Job Seekers & Recruiters)
-📝 Job posting, searching, and real-time application tracking
-📄 Resume upload system for applicants
-✅ Recruiter dashboard for reviewing, accepting, or rejecting applications
-Currently focused on enhancing file handling and improving recruiter workflow.
+</td>
+<td width="50%">
 
+### 📫 How to Reach Me
 
-📫 How to Reach Me
-📞 Phone: +91 93500 04071
-📧 Email: gurmukhsmalhotra1@gmail.com
-💼 LinkedIn: linkedin.com/in/gurmukh-singh-b92a96288
-🧑‍💻 GitHub: github.com/GURMUKHsMALHOTRA4
+- 📞 **Phone:** +91 93500 04071  
+- 📧 **Email:** [gurmukhsmalhotra1@gmail.com](mailto:gurmukhsmalhotra1@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/gurmukh-singh-b92a96288](https://linkedin.com/in/gurmukh-singh-b92a96288)  
+- 🧑‍💻 **GitHub:** [github.com/GURMUKHsMALHOTRA4](https://github.com/GURMUKHsMALHOTRA4)  
+
+### ⚡ Currently Learning
+
+- Spring Boot with PostgreSQL integration  
+- RESTful API development  
+- Hands-on DSA problem solving  
+
+### 🧩 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>

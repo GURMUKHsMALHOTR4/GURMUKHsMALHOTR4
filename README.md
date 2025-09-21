@@ -25,16 +25,27 @@
 - 🛠️ <strong>Development Tools:</strong> GitHub, VS Code, Postman  
 - 🚧 <strong>Currently Learning & Building With:</strong> Spring Boot + PostgreSQL Integration  
 
-### 📌 Projects I'm Working On
+## 🎯 Ongoing Project Journey
 
-#### 💼 HireMate — A full-stack job portal application built with Spring Boot and PostgreSQL.
+#### 💼 HireMate — A full-stack job portal application built with Spring Boot and PostgreSQL.  
 
-Features include:
+Features include:  
 - 🔐 Secure user authentication & role-based access (Job Seekers & Recruiters)  
 - 📝 Job posting, searching, and real-time application tracking  
 - 📄 Resume upload system for applicants  
 - ✅ Recruiter dashboard for reviewing, accepting, or rejecting applications  
 - ⏳ Currently focused on enhancing file handling and improving recruiter workflow  
+
+---
+
+#### 📰 SENTINOVA (Sense The News) — An AI-powered news sentiment analysis platform.  
+
+Features include:  
+- 🌐 Real-time news scraping & processing  
+- 🤖 Sentiment classification into Positive, Negative, or Neutral  
+- 📊 Categorized & sentiment-tagged news feeds  
+- 🔍 Search and filter by category or sentiment  
+- 🎯 Helps readers quickly grasp the emotional tone of trending stories   
 
 </td>
 

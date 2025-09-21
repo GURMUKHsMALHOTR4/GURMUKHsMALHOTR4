@@ -1,9 +1,9 @@
 <div align="center">
-  
-# ⚡ Hey there 👋, I'm Gurmukh Singh  
+
+# ⚡ Hey there 👋, I'm <span style="color:#6DB33F">Gurmukh Singh</span>  
 ### 🚀 CSE Undergrad | Backend Developer | DSA Explorer  
 
-💡 *Turning coffee into code. Building projects that solve real problems.*  
+🔥 *Code. Create. Conquer.* 🔥  
 
 </div>
 
@@ -15,29 +15,33 @@
 
 ## ✨ About Me  
 
-- 🧑‍💻 Backend developer passionate about **clean code & scalable systems**  
-- 🌱 Currently mastering **Java, Spring Boot, PostgreSQL & DSA**  
-- ⚡ Love building **REST APIs & backend architectures**  
-- 🎯 Believe in **learning by doing** → every project is a new adventure  
-- 🔥 Always curious, always shipping projects 🚀  
+- 🧑‍💻 Backend developer who loves **building powerful systems**  
+- 🌱 Currently diving deep into **Spring Boot, PostgreSQL & scalable APIs**  
+- 💡 Passionate about **problem-solving through DSA**  
+- ⚡ Always experimenting, always leveling up  
+- 🎯 Goal: *Craft systems that speak the language of speed & reliability*  
 
 ---
 
 ## 🎯 Legendary Projects  
 
 ### 💼 HireMate — Job Portal  
-- 🔐 Secure authentication & role-based access  
-- 📝 Post jobs, search & track applications  
-- 📄 Resume upload & recruiter dashboard  
-- ⚡ Currently optimizing recruiter workflows  
+🚀 *Connecting job seekers & recruiters seamlessly*  
+
+✔️ Secure authentication & role-based access  
+✔️ Real-time job posting, search & applications  
+✔️ Resume uploads & recruiter dashboard  
+⚡ *Currently optimizing recruiter workflows*  
 
 ---
 
 ### 📰 SENTINOVA — Sense The News  
-- 🌐 Real-time news scraping & categorization  
-- 🤖 AI-powered sentiment analysis (Positive / Negative / Neutral)  
-- 📊 Smart filters by sentiment & category  
-- 🎯 Helps readers instantly **grasp news tone**  
+🌐 *Making headlines smarter with AI-powered sentiment analysis*  
+
+✔️ Real-time news scraping & categorization  
+✔️ NLP-based sentiment tagging (Positive / Negative / Neutral)  
+✔️ Filter news by category & sentiment  
+⚡ *Helping readers instantly grasp the tone of global news*  
 
 </td>
 
@@ -68,11 +72,18 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Power  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GURMUKHsMALHOTR4&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURMUKHsMALHOTR4&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GURMUKHsMALHOTR4&show_icons=true&theme=radical&hide_rank=false&count_private=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURMUKHsMALHOTR4&theme=radical" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GURMUKHsMALHOTR4&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 </td>
@@ -83,7 +94,9 @@
 
 <div align="center">
 
-🔥 *"Dream in code, build in silence, let success make the noise."* 🔥  
+🔥 *"Dream big. Code hard. Build legendary."* 🔥  
+
+💀 The journey has just begun...  
 
 Made with ❤️ by **Gurmukh Singh**  
 

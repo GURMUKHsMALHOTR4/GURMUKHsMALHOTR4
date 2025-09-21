@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there 👋! I'm Gurmukh Singh</h1>
+  <h1>⚡ Hey there 👋! I'm Gurmukh Singh</h1>
   <h3>🚀 CSE Undergrad | Backend Developer in Progress | DSA Explorer</h3>
 </div>
 
@@ -9,58 +9,63 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🚀 About Me
+### ✨ About Me  
 
-- 🧑‍💻 Passionate about backend development and writing clean, efficient code  
-- 💡 Currently learning Java, Spring Boot, PostgreSQL, and Data Structures & Algorithms  
-- 📚 Consistently practicing DSA to strengthen my problem-solving skills  
-- 🌱 Exploring scalable backend architectures and building robust RESTful APIs  
-- ✨ Driven by curiosity, always eager to learn and experiment with new technologies  
-
-### 🛠️ Tech Stack & Tools
-
-- 💻 <strong>Languages:</strong> Java, C++  
-- 🌱 <strong>Frameworks:</strong> Spring Boot  
-- 🗄️ <strong>Databases:</strong> PostgreSQL, MySQL | <strong>Tools:</strong> pgAdmin  
-- 🛠️ <strong>Development Tools:</strong> GitHub, VS Code, Postman  
-- 🚧 <strong>Currently Learning & Building With:</strong> Spring Boot + PostgreSQL Integration  
-
-## 🎯 Ongoing Project Journey
-
-#### 💼 HireMate — A full-stack job portal application built with Spring Boot and PostgreSQL.  
-
-Features include:  
-- 🔐 Secure user authentication & role-based access (Job Seekers & Recruiters)  
-- 📝 Job posting, searching, and real-time application tracking  
-- 📄 Resume upload system for applicants  
-- ✅ Recruiter dashboard for reviewing, accepting, or rejecting applications  
-- ⏳ Currently focused on enhancing file handling and improving recruiter workflow  
+- 🧑‍💻 Passionate **Backend Developer** focused on building scalable & efficient systems  
+- 📚 Actively learning **Java, Spring Boot, PostgreSQL, and DSA** to sharpen my craft  
+- 🌱 Exploring **REST APIs & scalable backend architectures** for real-world applications  
+- 💡 Believer in **clean code, performance-driven design, and problem-solving**  
+- 🔥 Constantly curious, improving through hands-on projects & experimentation  
 
 ---
 
-#### 📰 SENTINOVA (Sense The News) — An AI-powered news sentiment analysis platform.  
+### 🛠️ Tech Stack & Tools  
 
-Features include:  
-- 🌐 Real-time news scraping & processing  
-- 🤖 Sentiment classification into Positive, Negative, or Neutral  
-- 📊 Categorized & sentiment-tagged news feeds  
-- 🔍 Search and filter by category or sentiment  
-- 🎯 Helps readers quickly grasp the emotional tone of trending stories   
+- 💻 **Languages:** Java, C++  
+- 🌱 **Frameworks:** Spring Boot  
+- 🗄️ **Databases:** PostgreSQL, MySQL  
+- 🧪 **Tools:** Postman, pgAdmin  
+- ⚡ **Dev Tools:** GitHub, VS Code  
+- 🚀 **Currently Exploring:** Advanced Spring Boot + PostgreSQL integrations  
+
+---
+
+## 🎯 Ongoing Project Journey  
+
+#### 💼 HireMate — A job portal built with Spring Boot & PostgreSQL.  
+
+Key Features:  
+- 🔐 Secure login & role-based access (Job Seekers & Recruiters)  
+- 📝 Job posting, searching & application tracking  
+- 📄 Resume upload & management  
+- ✅ Recruiter dashboard to review, accept/reject applications  
+- ⏳ Currently enhancing **file handling & recruiter workflows**  
+
+---
+
+#### 📰 SENTINOVA (Sense The News) — AI-powered news sentiment analyzer.  
+
+Key Features:  
+- 🌐 Real-time news scraping & classification  
+- 🤖 AI-driven sentiment tagging (Positive, Negative, Neutral)  
+- 📊 Categorized & filtered news feeds  
+- 🔍 Smart search & filtering by category/sentiment  
+- 🎯 Helps readers instantly **grasp the tone of global news**  
 
 </td>
 
 <td width="45%" valign="top">
 
-### 📢 How to Reach Me
+### 📢 Connect With Me  
 
-- 📞 <strong>Phone:</strong> +91 93500 04071  
-- 📧 <strong>Email:</strong> <a href="mailto:gurmukhsmalhotra1@gmail.com">gurmukhsmalhotra1@gmail.com</a>  
-- 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gurmukh-singh-b92a96288">linkedin.com/in/gurmukh-singh</a>  
-- 🧑‍💻 <strong>GitHub:</strong> <a href="https://github.com/GURMUKHsMALHOTR4">GURMUKHsMALHOTR4</a>  
+- 📞 **Phone:** +91 93500 04071  
+- 📧 **Email:** [gurmukhsmalhotra1@gmail.com](mailto:gurmukhsmalhotra1@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/gurmukh-singh-b92a96288](https://linkedin.com/in/gurmukh-singh-b92a96288)  
+- 🧑‍💻 **GitHub:** [GURMUKHsMALHOTR4](https://github.com/GURMUKHsMALHOTR4)  
 
-<br/><br/>
+---
 
-### 📊 Tools & Technologies
+### ⚡ Tools & Technologies  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -79,4 +84,6 @@ Features include:
 
 ---
 
-<p align="center">Made with ❤️ by Gurmukh Singh</p>
+<p align="center">
+  🚀 “Code. Build. Break. Learn. Repeat.” — Made with ❤️ by <b>Gurmukh Singh</b>
+</p>
